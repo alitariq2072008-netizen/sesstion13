@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+}
+div{
+    font-size: 20px;
+    color: white;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15%;
+    gap: 122px;
+   
+}
+
+.b1,.b2{
+
+width:45px;
+
+color: white;
+
+font-size: 20px;
+
+border:  1px  rgba(255, 255, 255, 0.348) solid;
+border-radius: 50%;
+padding:10px ;
+
+}
